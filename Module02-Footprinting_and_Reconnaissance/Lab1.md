@@ -52,7 +52,7 @@ As a professional ethical hacker or pen tester, the first crucial step is footpr
    - `info:eccouncil.org` — Information about the EC-Council homepage.
    - `location: EC-Council` — Location-based results relevant to EC-Council.
 
-## Results & Findings (Example / Lab Data)
+## Results & Findings
 
 - Multiple login page URLs discovered on the target site, highlighting potential points for access testing or brute-force attacks.
 - Sensitive PDF documents such as CEH brochures were publicly accessible, possibly exposing product and service details.
@@ -67,8 +67,6 @@ As a professional ethical hacker or pen tester, the first crucial step is footpr
 - Understanding these footprints helps formulate a focused attack or security assessment plan.
 
 ## Screenshots
-
-(Save your screenshots in a `screenshots` folder and include references here, for example:)
 
 ![Google search intitle login](screenshots/intitle_login_search.png)  
 ![CEH PDF search results](screenshots/ceh_pdf_results.png)
