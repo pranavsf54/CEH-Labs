@@ -30,7 +30,7 @@ As an ethical hacker or penetration tester, gathering detailed network and infra
 6. Downloaded the hosts list as an Excel (.xlsx) file.  
 7. Opened the Excel file, enabled editing, and reviewed columns like Hostname, IP Address, Reverse DNS, Netblock Owner, Country, and HTTP Title.
 
-## Results (Example / Lab Data)
+## Results
 - Multiple subdomains and hosts were identified for the target domain, including mail servers and various service endpoints.  
 - GeoIP data showed the geographic locations of servers hosting subdomains.  
 - DNS servers such as ns1.bluehost.com and ns2.bluehost.com were revealed.  
