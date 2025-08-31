@@ -1,4 +1,4 @@
-# Lab 1 – Footprinting Through Search Engines
+# Lab 1 – Footprinting Through Search Engines <a name="lab1"></a>
 
 ## Objective
 
@@ -73,6 +73,6 @@ As a professional ethical hacker or pen tester, the first crucial step is footpr
 
 ## Disclaimer
 
-This documentation and all data shown are for educational, lab, and ethical hacking training purposes only. No unauthorized access or attack was performed on any live systems. Always obtain proper authorization before testing any organization’s infrastructure.
+This documentation is for educational and ethical hacking training purposes only. No unauthorized access or attacks were performed. Always ensure proper authorization before engaging in penetration testing activities.
 
 ---
