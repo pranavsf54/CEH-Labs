@@ -1,4 +1,4 @@
-# Lab 2 – Footprinting Through Internet Research Services
+# Lab 2: Footprinting Through Internet Research Services
 
 ## Objective
 To extract critical information about a target organization’s domains, subdomains, DNS servers, geographic locations, infrastructure, and hosts using Internet research services such as Netcraft and DNSdumpster. This information aids in building an effective hacking strategy.

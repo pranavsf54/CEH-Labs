@@ -1,4 +1,4 @@
-# Lab 1 – Footprinting Through Search Engines <a name="lab1"></a>
+# Lab 1: Footprinting Through Search Engines
 
 ## Objective
 
