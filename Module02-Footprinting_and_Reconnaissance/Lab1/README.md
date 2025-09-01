@@ -68,7 +68,10 @@ As a professional ethical hacker or pen tester, the first crucial step is footpr
 
 ## Screenshots
 
+Google search intitle login
 ![Google search intitle login](screenshots/intitle_login_search.png)  
+
+CEH PDF search results
 ![CEH PDF search results](screenshots/ceh_pdf_results.png)
 
 ## Disclaimer

@@ -48,14 +48,14 @@ As an ethical hacker or penetration tester, gathering detailed network and infra
 - Using Netcraft, search for www.eccouncil.org and identify the operating system running on the web server hosting the site.
 
 ## Screenshots 
-![Netcraft Site Report](screenshots/netcraft_site_report.png)  
 netcraft Site Report
+![Netcraft Site Report](screenshots/netcraft_site_report.png)  
 
-![DNSdumpster GEOIP](screenshots/dnsdumpster_geoip.png)  
 DNSDumpster GEO-IP
+![DNSdumpster GEOIP](screenshots/dnsdumpster_geoip.png)  
 
-![Hosts Excel](screenshots/hosts_list_excel.png)
 Hosts Excel
+![Hosts Excel](screenshots/hosts_list_excel.png)
 
 ## Disclaimer
 

@@ -39,8 +39,8 @@ Ethical hackers gather intelligence on employees in high-impact roles, such as C
 
 ## Screenshots
 
-![Sherlock Results](screenshots/sherlock_elonmusk_results.png)
 Sherlock Results
+![Sherlock Results](screenshots/sherlock_elonmusk_results.png)
 
 ## Disclaimer
 
