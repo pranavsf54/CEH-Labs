@@ -14,6 +14,7 @@ This repo documents the penetration testing methodology, tools, and findings for
   - [Lab 3: **Footprinting Through Social Networking Sites**](Module02-Footprinting_and_Reconnaissance/Lab3/README.md)
   - [Lab 4: **Perform Whois Footprinting**](Module02-Footprinting_and_Reconnaissance/Lab4/README.md)
   - [Lab 5: **Perform DNS Footprinting**](Module02-Footprinting_and_Reconnaissance/Lab5/README.md)
+  - [Lab 6: **Perform Network Footprinting**](Module02-Footprinting_and_Reconnaissance/Lab6/README.md)
 
 ## How to Use This Repository
 
