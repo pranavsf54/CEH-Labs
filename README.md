@@ -8,7 +8,7 @@ This repo documents the penetration testing methodology, tools, and findings for
 
 ## Repository Structure
 
-- Module 2
+- Module 2 - Footprinting and Reconnaissance
   - [Lab 1: **Perform Footprinting Through Search Engines** ](Module02-Footprinting_and_Reconnaissance/Lab1/README.md)
   - [Lab 2: **Perform Footprinting Through Internet Research Services**](Module02-Footprinting_and_Reconnaissance/Lab2/README.md)
   - [Lab 3: **Footprinting Through Social Networking Sites**](Module02-Footprinting_and_Reconnaissance/Lab3/README.md)
