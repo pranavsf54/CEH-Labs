@@ -1,5 +1,5 @@
 # Lab 2: Perform Port and Service Discovery
-
+[🏠 Home](../../README.md) | [◀️ Previous Lab](../Lab1/README.md) | [Next Lab ▶️](../Lab3/README.md)
 ## Objective
 
 To explore and execute various network scanning techniques using Nmap and Zenmap. The goal is to discover open ports, identify running services, detect operating systems, and understand how different scan types interact with firewalls.
