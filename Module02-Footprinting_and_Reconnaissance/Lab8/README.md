@@ -190,9 +190,3 @@ Recon-ng is a web reconnaissance framework with independent modules and database
 Q: Use the Recon-ng tool to gather personnel information. Enter the Recon-ng module name that extracts the contacts associated with the domain and displays them.
 
 A: `recon/domains-contacts/whois_pocs`
-
-## Notes
-- Make sure to document all information gathered during the reconnaissance process
-- Results may vary when performing the lab tasks
-- Screenshots need to be captured for each major step as indicated above
-- The tool's output will depend on the target domain's current state and available information
