@@ -22,7 +22,7 @@ As a professional ethical hacker or pen tester, the first crucial step is footpr
    - Allowed network discovery.
 
 2. **Launched Mozilla Firefox browser and opened Google Search** (https://www.google.com)
-
+ ,
 3. **Performed Advanced Google Search Queries:**
 
    - Searched for login pages on the EC-Council website:
